@@ -1,3 +1,7 @@
+# Environment
 systems
 .env
 .venv
+
+# Special file
+insightface-0.7.3-cp312-cp312-win_amd64.whl
