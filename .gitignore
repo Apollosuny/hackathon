@@ -3,5 +3,8 @@ systems
 .env
 .venv
 
+# Folders have large size
+/insightface/models
+
 # Special file
 insightface-0.7.3-cp312-cp312-win_amd64.whl

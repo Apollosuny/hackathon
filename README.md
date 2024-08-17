@@ -28,11 +28,12 @@
 ## Install packages
 
 - To install insightface
-- Install this file from link [resources](https://github.com/Gourieff/Assets/tree/main/Insightface)
-  ```bash
-  insightface-0.7.3-cp312-cp312-win_amd64.whl
-  ```
-- Active environment and run command
-  ```bash
-  pip install insightface-0.7.3-cp312-cp312-win_amd64.whl
-  ```
+  - Install this file from link [resources](https://github.com/Gourieff/Assets/tree/main/Insightface)
+    ```bash
+    insightface-0.7.3-cp312-cp312-win_amd64.whl
+    ```
+  - Active environment and run command
+    ```bash
+    pip install insightface-0.7.3-cp312-cp312-win_amd64.whl
+    ```
+- **onnx** package: using version **1.16.1**
