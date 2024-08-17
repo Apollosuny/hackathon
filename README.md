@@ -37,3 +37,7 @@
     pip install insightface-0.7.3-cp312-cp312-win_amd64.whl
     ```
 - **onnx** package: using version **1.16.1**
+
+## Access Redis GUI
+
+- Link: http://localhost:5540
