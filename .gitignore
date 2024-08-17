@@ -3,6 +3,11 @@ systems
 .env
 .venv
 
+# Images
+*.jpeg
+*.png
+*.jpg
+
 # Folders have large size
 /insightface/models
 
